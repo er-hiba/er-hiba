@@ -1,7 +1,8 @@
+<img src="https://github.com/er-hiba/er-hiba/raw/dfa02a22716fd51ecefef43110ef20d255a2020a/kitty.gif" align="right" height="150">
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=4896&pause=&color=FF849E&center=true&vCenter=true&multiline=true&width=450&height=100&lines=%E2%99%A1+Hello+everyone!+I'm+Hiba+%40er-hiba+%E2%99%A1;Welcome+to+my+profile!" alt="Typing SVG" />
-  <img align="right" width="135" height="135" src="https://github.com/er-hiba/er-hiba/raw/264a436aa4c629bd2e3f948c4b37913685e1c9ff/kitty.gif">
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=4896&pause=&color=FF849E&center=true&vCenter=true&multiline=true&width=450&height=100&lines=%E2%99%A1+Hello+everyone!+I'm+Hiba+%40er-hiba+%E2%99%A1;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+
 
 ## ♡ Who am I
 Hi! My name is Hiba ERRAOUI.  
