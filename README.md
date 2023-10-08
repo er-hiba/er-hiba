@@ -16,3 +16,6 @@ I'm just getting started on my coding journey, and Python is my launchpad.
 
 ## ♡ GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=er-hiba&theme=dracula)](https://git.io/streak-stats)
+
+## ♡ Contact information
+📧 [email me](mailto:hibah.erraoui@gmail.com)
