@@ -3,6 +3,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=4896&pause=&color=FF849E&center=true&vCenter=true&multiline=true&width=450&height=100&lines=%E2%99%A1+Hello+everyone!+I'm+Hiba+%40er-hiba+%E2%99%A1;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 
+![views](https://komarev.com/ghpvc/?username=er-hiba&color=FF849E)
 
 ## ♡ Who am I
 Hi! My name is Hiba ERRAOUI.  
