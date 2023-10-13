@@ -53,7 +53,7 @@ for me. Since "<3" was my first "Hello World!" in the sea of coding.
 ##
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=341671&vCenter=false&multiline=true&repeat=false&random=false&width=1270&height=45&lines=♡+Tech+Exploration+:" alt="Typing SVG" /></a>
 ##
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="30"> I'm beginning my coding odyssey, with Python as my starting point.  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="30"> I'm starting my coding journey with Python.
 
 <img src="https://img.icons8.com/color/64/null/html-5--v1.png" align="center" height="32"> I'm also introducing myself to HTML.
 
