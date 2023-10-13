@@ -23,7 +23,7 @@ I'm just getting started on my coding journey, and Python is my launchpad.
 
 <div>
   <img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/3purplehearts.gif" align="left" height="100">  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Courier+Prime&size=32&pause=1&color=E53F71&center=true&vCenter=true&multiline=true&random=true&width=715&height=100&lines=Hello+and+welcome+to+my+Code+Canvas" alt="Typing SVG" align="center" /></a><img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/3purplehearts.gif" height="100">  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Courier+Prime&size=28&pause=1&color=E53F71&center=true&vCenter=true&multiline=true&random=true&width=715&height=100&lines=Hello+and+welcome+to+my+Code+Canvas" alt="Typing SVG" align="center" /></a><img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/3purplehearts.gif" height="100">  
 </div>
 
 <!-- <div align="center">
