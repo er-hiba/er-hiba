@@ -35,21 +35,20 @@ I'm just getting started on my coding journey, and Python is my launchpad.
 ## 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=341671&vCenter=false&multiline=true&repeat=false&random=false&width=1225&height=40&lines=♡+Me+from+behind+the+screen+:" alt="Typing SVG" /></a>
 ##
-<!-- <img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/sea.gif" >
 Hello there! I'm Hiba ERRAOUI, a passionate 20 years old who's just beginning   
 my journey through the world of software development. Join me as I unveil my   
 coding odyssey.  
 P.S: You will see plenty of hearts in my profile; they hold a special significance  
-for me. Since "<3" was my first "Hello World!" in the sea of coding.-->
+for me. Since "<3" was my first "Hello World!" in the sea of coding.
 
-<div style="display: flex; align-items: center;">
+<!-- <div style="display: flex; align-items: center;">
   <img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/sea.gif" height="120" width="200" align="right" >
     Hello there! I'm Hiba ERRAOUI, a passionate 20 years old who's just beginning<br>
     my journey through the world of software development. Join me as I unveil my<br> 
     coding odyssey.<br>
     P.S: You will see plenty of hearts in my profile; they hold a special significance<br>
     for me. Since "<3" was my first "Hello World!" in the sea of coding.
-</div>
+</div> -->
 
 ##
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=341671&vCenter=false&multiline=true&repeat=false&random=false&width=1270&height=45&lines=♡+Tech+Exploration+:" alt="Typing SVG" /></a>
