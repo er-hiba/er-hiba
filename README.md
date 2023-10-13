@@ -43,7 +43,7 @@ P.S: You will see plenty of hearts in my profile; they hold a special significan
 for me. Since "<3" was my first "Hello World!" in the sea of coding.-->
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/sea.gif" height="140" width="200" align="right" >
+  <img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/sea.gif" height="120" width="200" align="right" >
     Hello there! I'm Hiba ERRAOUI, a passionate 20 years old who's just beginning<br>
     my journey through the world of software development. Join me as I unveil my<br> 
     coding odyssey.<br>
