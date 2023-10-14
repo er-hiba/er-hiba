@@ -22,7 +22,7 @@ I'm just getting started on my coding journey, and Python is my launchpad.
 📧 [email me](mailto:hibah.erraoui@gmail.com) -->
 
 <div>
-  <img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/3purplehearts.gif" height="100">  
+  <img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/3purplehearts.gif" height="100" width="100">  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Courier+Prime&size=32&pause=1&color=E53F71&center=true&vCenter=true&multiline=true&random=true&width=715&height=100&lines=Hello+and+welcome+to+my+Code+Canvas" alt="Typing SVG" align="center" /></a>
 </div>
 
@@ -61,7 +61,7 @@ for me. Since "<3" was my first "Hello World!" in the sea of coding.
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=4BA3D2&vCenter=false&multiline=true&repeat=false&random=false&width=1225&height=40&lines=♡+GitHub+Stats+:" alt="Typing SVG" /></a>
 ##
 
-<img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/2hearts.gif" align="right" height="100">
+<img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/2hearts.gif" align="right" height="100" width="100">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=er-hiba&hide_border=false&card_width=550&border=4BA3D2&background=AE296800&stroke=4BA3D2&currStreakNum=E53F71&dates=9C3587&ring=9C3587&sideNums=F54952&sideLabels=E53F71&currStreakLabel=E53F71&fire=F54952" alt="GitHub Streak" align="center" /></a>  
 <br> <br>
 
