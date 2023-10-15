@@ -61,7 +61,7 @@ for me. Since "<3" was my first "Hello World!" in the sea of coding.
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=4BA3D2&vCenter=false&multiline=true&repeat=false&random=false&width=1225&height=40&lines=♡+GitHub+Stats+:" alt="Typing SVG" /></a>
 ##
 
-<img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/2hearts.gif" align="right" height="100" width="100">
+<!-- <img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/2hearts.gif" align="right" height="100" width="100"> -->
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=er-hiba&hide_border=false&card_width=550&border=4BA3D2&background=AE296800&stroke=4BA3D2&currStreakNum=E53F71&dates=9C3587&ring=4BA3D2&sideNums=FF69B4&sideLabels=E53F71&currStreakLabel=E53F71&fire=FF69B4" alt="GitHub Streak" align="center" /></a>  
 <br> <br>
 
