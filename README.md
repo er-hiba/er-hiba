@@ -62,12 +62,13 @@ for me. Since "<3" was my first "Hello World!" in the sea of coding.
 ##
 
 <!-- <img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/2hearts.gif" align="right" height="100" width="100"> -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=er-hiba&hide_border=false&card_width=550&border=4BA3D2&background=AE296800&stroke=4BA3D2&currStreakNum=E53F71&dates=9C3587&ring=4BA3D2&sideNums=FF69B4&sideLabels=E53F71&currStreakLabel=E53F71&fire=FF69B4" alt="GitHub Streak" align="center" /></a>  
-<br> <br>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=er-hiba&hide_border=false&card_width=485&border=4BA3D2&background=AE296800&stroke=4BA3D2&currStreakNum=E53F71&dates=9C3587&ring=4BA3D2&sideNums=FF69B4&sideLabels=E53F71&currStreakLabel=E53F71&fire=FF69B4" alt="GitHub Streak" align="center" /></a>  
+<br>
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=er-hiba&theme=radical&column=4&row=1&margin-w=16&margin-h=16&no-frame=true&no-bg=true)](https://github.com/er-hiba/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=er-hiba&theme=radical&column=4&row=1&margin-w=16&margin-h=16&no-frame=true)](https://github.com/er-hiba/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=er-hiba&theme=dracula&column=4&row=1&margin-w=16&margin-h=16&no-frame=true&no-bg=true)](https://github.com/er-hiba/github-profile-trophy) -->
 ![views](https://komarev.com/ghpvc/?username=er-hiba&color=E53F71) 
 ##
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=4BA3D2&vCenter=false&multiline=true&repeat=false&random=false&width=1100&height=45&lines=♡+Contact+Information+:" alt="Typing SVG" /></a>
 ##
 📧 [Email me](mailto:hibah.erraoui@gmail.com)
-
