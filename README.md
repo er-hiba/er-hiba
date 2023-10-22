@@ -71,7 +71,7 @@ for me. Since "<3" was my first "Hello World!" in the sea of coding.
 ##
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=4BA3D2&vCenter=false&multiline=true&repeat=false&random=false&width=1270&height=45&lines=♡+My+Contributions+:" alt="Typing SVG" /></a>
 ##
-![snake gif](https://github.com/er-hiba/er-hiba/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/er-hiba/er-hiba/blob/output/github-contribution-grid-snake.svg)
 ##
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=4BA3D2&vCenter=false&multiline=true&repeat=false&random=false&width=1100&height=45&lines=♡+Contact+Information+:" alt="Typing SVG" /></a>
 ##
