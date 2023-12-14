@@ -53,9 +53,10 @@ for me, since "<3" was my first "Hello World!" in the sea of coding.
 ##
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=4BA3D2&vCenter=false&multiline=true&repeat=false&random=false&width=1270&height=45&lines=♡+Tech+Exploration+:" alt="Typing SVG" /></a>
 ##
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="30"> I'm starting my coding journey with Python.
+<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="30"> I'm starting my coding journey with Python.
 
-<img src="https://img.icons8.com/color/64/null/html-5--v1.png" align="center" height="32"> I'm also introducing myself to HTML.
+<img src="https://img.icons8.com/color/64/null/html-5--v1.png" align="center" height="32"> I'm also introducing myself to HTML. -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="57"> <img src="https://img.icons8.com/color/64/null/html-5--v1.png" align="center" height="57"><img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" align="center" height="60"><img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" align="center" height="50">
 
 ##
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=4BA3D2&vCenter=false&multiline=true&repeat=false&random=false&width=1225&height=40&lines=♡+GitHub+Stats+:" alt="Typing SVG" /></a>
