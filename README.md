@@ -27,13 +27,13 @@ I'm just getting started on my coding journey, and Python is my launchpad.
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Courier+Prime&size=32&pause=1&color=FF69B4&center=true&vCenter=true&multiline=true&random=true&width=715&height=100&lines=Hello+and+welcome+to+my+Code+Canvas" alt="Typing SVG" align="center" /></a>
 </div> -->
 
-<p align="center">
-<img src="https://github.com/er-hiba.png" width="290" height="270">
-</p>
-<p align="center">
+<div align="center">
+<img src="https://github.com/er-hiba.png" width="290" height="270"><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2000&color=C040C0&background=4078C022&center=true&multiline=true&random=false&width=290&height=100&lines=First-Year+Digital;Development+Student+%E2%99%A1" alt="Typing SVG" /></a>
-</p> 
-
+<br><br>
+  
+![views](https://komarev.com/ghpvc/?username=er-hiba&color=C040C0) 
+</div>
 <!-- <div align="center">
   <img src="https://github.com/er-hiba/er-hiba/raw/dfa02a22716fd51ecefef43110ef20d255a2020a/kitty.gif" height="140">
   <a href="https://git.io/typing-svg">
@@ -56,7 +56,6 @@ for me, since "<3" was my first "Hello World!" in the sea of coding.
     P.S: You will see plenty of hearts in my profile; they hold a special significance<br>
     for me. Since "<3" was my first "Hello World!" in the sea of coding.
 </div> -->
-
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=C040C0 &vCenter=true&random=false&width=1270&height=45&lines=♡+Technologies :" alt="Typing SVG" /></a>
 -------------------------------
@@ -79,8 +78,6 @@ for me, since "<3" was my first "Hello World!" in the sea of coding.
 [![trophy](https://github-profile-trophy.vercel.app/?username=er-hiba&theme=discord&column=4&row=1&margin-w=8&margin-h=8&no-frame=true&no-bg=true)](https://github.com/er-hiba/github-profile-trophy)
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=er-hiba&theme=dracula&column=4&row=1&margin-w=16&margin-h=16&no-frame=true&no-bg=true)](https://github.com/er-hiba/github-profile-trophy) -->
 
-
-![views](https://komarev.com/ghpvc/?username=er-hiba&color=E53F71) 
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=C040C0 &vCenter=true&random=false&width=1225&height=40&lines=♡+My+Contributions+:" alt="Typing SVG" /></a>
 ----------------------------------------
