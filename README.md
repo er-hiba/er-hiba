@@ -32,7 +32,8 @@ I'm just getting started on my coding journey, and Python is my launchpad.
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2000&color=C040C0&background=4078C022&center=true&multiline=true&random=false&width=290&height=100&lines=First-Year+Digital;Development+Student+%E2%99%A1" alt="Typing SVG" /></a>
 <br><br>
   
-![views](https://komarev.com/ghpvc/?username=er-hiba&color=C040C0) 
+<!--![views](https://komarev.com/ghpvc/?username=er-hiba&color=C040C0) 
+-->
 </div>
 <!-- <div align="center">
   <img src="https://github.com/er-hiba/er-hiba/raw/dfa02a22716fd51ecefef43110ef20d255a2020a/kitty.gif" height="140">
