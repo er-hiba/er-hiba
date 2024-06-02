@@ -87,7 +87,7 @@ for me, since "<3" was my first "Hello World!" in the sea of coding.
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=er-hiba&theme=radical&column=4&row=1&margin-w=16&margin-h=16&no-frame=true&no-bg=true)](https://github.com/er-hiba/github-profile-trophy) -->
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=er-hiba&layout=compact&theme=transparent)
+<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=er-hiba&layout=compact&theme=transparent)-->
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=er-hiba&theme=discord&column=4&row=1&margin-w=8&margin-h=8&no-frame=true&no-bg=true)](https://github.com/er-hiba/github-profile-trophy)
