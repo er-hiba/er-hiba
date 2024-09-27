@@ -39,8 +39,6 @@
 </div>
 
 # ♡ -- Contact Info -- ♡
-
-<div align="center">
-  
+ 
 📧 [Email me](mailto:hibah.erraoui@gmail.com)
-</div>
+
