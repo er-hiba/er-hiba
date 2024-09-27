@@ -23,7 +23,7 @@
 # ♡ -- GitHub Stats -- ♡
 <div align=center>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=er-hiba&theme=react&hide_border=true&card_width=420)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=er-hiba&theme=react&hide_border=true&card_width=350)](https://git.io/streak-stats) 
 ![er-hiba's Stats](https://github-readme-stats.vercel.app/api?username=er-hiba&theme=react&show_icons=true&hide_border=true&count_private=true&card_width=280)
 
 </div>
