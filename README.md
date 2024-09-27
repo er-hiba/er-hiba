@@ -21,10 +21,11 @@
 
 
 # ♡ -- GitHub Stats -- ♡
+<div align=center>
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=er-hiba&theme=holi-theme&card_width=1020&card_height=210&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=er-hiba&theme=holi-theme&hide_border=true)](https://git.io/streak-stats) 
+![er-hiba's Stats](https://github-readme-stats.vercel.app/api?username=er-hiba&theme=react&show_icons=true&hide_border=true&count_private=true)
+
 </div>
 
 <!-- [![committers.top badge](https://user-badge.committers.top/morocco/er-hiba.svg)](https://user-badge.committers.top/morocco/er-hiba) -->
