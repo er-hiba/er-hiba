@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="imgs/img1.jfif">
-</div>
+
 
 ```json
 {
@@ -17,6 +15,9 @@
   }
 }
 ```
+<div align="center">
+  <img src="imgs/img1.jfif" width=1020>
+</div>
 
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=C040C0 &vCenter=true&random=false&width=1225&height=40&lines=♡+GitHub+Stats+:" alt="Typing SVG" /></a>
