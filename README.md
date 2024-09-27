@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="imgs/img1.jfif" width=1020>
+  <img src="imgs/img1.jfif" width=1020 height=270>
 </div>
 
 ```json
@@ -28,7 +28,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=er-hiba&theme=holi-theme&card_width=1020&card_height=200&hide_border=true)](https://git.io/streak-stats)
 </div>
 
-[![committers.top badge](https://user-badge.committers.top/morocco/er-hiba.svg)](https://user-badge.committers.top/morocco/er-hiba)
+<!-- [![committers.top badge](https://user-badge.committers.top/morocco/er-hiba.svg)](https://user-badge.committers.top/morocco/er-hiba) -->
 
 
 #
@@ -37,6 +37,6 @@
 ![snake svg](https://github.com/er-hiba/er-hiba/blob/output/github-contribution-grid-snake.svg)
 
 #
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=C040C0 &vCenter=true&random=false&width=1270&height=45&lines=♡+Contact+Information+:" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=edfaff&vCenter=true&random=false&width=1270&height=45&lines=♡+Contact+Information+:" alt="Typing SVG" /></a>
 ------------------------------------------
 📧 [Email me](mailto:hibah.erraoui@gmail.com)
