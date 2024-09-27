@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="imgs/img1.jfif" width=1020>
+  <img src="imgs/img2.jfif" width=1020>
 </div>
 
 ```json
@@ -25,7 +25,7 @@
 ----------------------------------
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=er-hiba&theme=holi-theme&card_width=1020&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=er-hiba&theme=modern-lilac2&card_width=1020&card_height=200)](https://git.io/streak-stats)
 </div>
 
 [![committers.top badge](https://user-badge.committers.top/morocco/er-hiba.svg)](https://user-badge.committers.top/morocco/er-hiba)
