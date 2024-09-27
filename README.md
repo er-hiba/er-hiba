@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="imgs/img1.jfif" width=1020 height=270>
+</div>
 
 
 ```json
@@ -17,9 +19,7 @@
 }
 ```
 
-<div align="center">
-  <img src="imgs/img1.jfif" width=1020 height=270>
-</div>
+
 
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=edfaff&vCenter=true&random=false&width=1225&height=40&lines=♡+GitHub+Stats+:" alt="Typing SVG" /></a>
@@ -35,9 +35,13 @@
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=edfaff&vCenter=true&random=false&width=1225&height=40&lines=♡+My+Contributions+:" alt="Typing SVG" /></a>
 ----------------------------------------
+<div align="center">
+  
 ![snake svg](https://github.com/er-hiba/er-hiba/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=edfaff&vCenter=true&random=false&width=1270&height=45&lines=♡+Contact+Information+:" alt="Typing SVG" /></a>
 ------------------------------------------
+
 📧 [Email me](mailto:hibah.erraoui@gmail.com)
