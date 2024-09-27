@@ -26,7 +26,7 @@
 ----------------------------------
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=er-hiba&theme=holi-theme&card_width=1020&card_height=250&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=er-hiba&theme=holi-theme&card_width=1020&card_height=210&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 <!-- [![committers.top badge](https://user-badge.committers.top/morocco/er-hiba.svg)](https://user-badge.committers.top/morocco/er-hiba) -->
