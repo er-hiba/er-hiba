@@ -1,9 +1,22 @@
-<img src="https://github.com/er-hiba/er-hiba/raw/dfa02a22716fd51ecefef43110ef20d255a2020a/kitty.gif" align="right" height="120">
-
 <div align="center">
-  <img src="mee.png" >
+  <img src="imgs/img1.jfif" width=1020>
 </div>
 
+```json
+{
+  "name": "Hiba ERRAOUI",
+  "major": "Fullstack Developement",
+  "skills": {
+    "learned": {
+      "programming_languages": ["Python", "JavaScript", "PHP"],
+      "web_development": ["HTML", "CSS", "Bootstrap"],
+      "databases": ["MySQL"],
+      "version_control": ["Git"]
+    },
+    "currently_learning": ["React", "Laravel", "MongoDB"]
+  }
+}
+```
 
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=C040C0 &vCenter=true&random=false&width=1225&height=40&lines=♡+GitHub+Stats+:" alt="Typing SVG" /></a>
