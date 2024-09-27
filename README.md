@@ -20,10 +20,8 @@
 ```
 
 
+# ♡ -- GitHub Stats -- ♡
 
-#
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=edfaff&vCenter=true&random=false&width=1225&height=40&lines=♡+GitHub+Stats+:" alt="Typing SVG" /></a>
-----------------------------------
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=er-hiba&theme=holi-theme&card_width=1020&card_height=210&hide_border=true)](https://git.io/streak-stats)
@@ -32,16 +30,16 @@
 <!-- [![committers.top badge](https://user-badge.committers.top/morocco/er-hiba.svg)](https://user-badge.committers.top/morocco/er-hiba) -->
 
 
-#
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=edfaff&vCenter=true&random=false&width=1225&height=40&lines=♡+My+Contributions+:" alt="Typing SVG" /></a>
-----------------------------------------
+# ♡ -- My Contributions -- ♡
+
 <div align="center">
   
 ![snake svg](https://github.com/er-hiba/er-hiba/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-#
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=edfaff&vCenter=true&random=false&width=1270&height=45&lines=♡+Contact+Information+:" alt="Typing SVG" /></a>
-------------------------------------------
+# ♡ -- Contact Information -- ♡
 
+<div align="center">
+  
 📧 [Email me](mailto:hibah.erraoui@gmail.com)
+</div>
