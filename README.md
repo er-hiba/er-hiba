@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="imgs/img1.jfif" width=1020>
+  <img src="imgs/img1.jfif">
 </div>
 
 ```json
