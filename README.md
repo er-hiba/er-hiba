@@ -22,9 +22,10 @@
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=C040C0 &vCenter=true&random=false&width=1225&height=40&lines=♡+GitHub+Stats+:" alt="Typing SVG" /></a>
 ----------------------------------
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=er-hiba&hide_border=false&card_width=500&border=4078c0&background=AE296800&stroke=4078c0&currStreakNum=FFB6C1&dates=4078c0&ring=4078c0&sideNums=FFB6C1&sideLabels=C040C0&currStreakLabel=C040C0&fire=C040C0" alt="GitHub Streak"/></a>
-
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=er-hiba&theme=holi-theme)](https://git.io/streak-stats)
+</div>
 
 [![committers.top badge](https://user-badge.committers.top/morocco/er-hiba.svg)](https://user-badge.committers.top/morocco/er-hiba)
 
