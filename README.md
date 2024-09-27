@@ -30,14 +30,14 @@
 <!-- [![committers.top badge](https://user-badge.committers.top/morocco/er-hiba.svg)](https://user-badge.committers.top/morocco/er-hiba) -->
 
 
-# ♡ -- My Contributions -- ♡
+# ♡ -- Contributions -- ♡
 
 <div align="center">
   
 ![snake svg](https://github.com/er-hiba/er-hiba/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-# ♡ -- Contact Information -- ♡
+# ♡ -- Contact Info -- ♡
 
 <div align="center">
   
