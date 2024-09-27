@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="imgs/img1.jfif" width=1020 height=270>
+  <img src="imgs/img1.jfif" width=1020 height=195>
 </div>
 
 
