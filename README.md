@@ -20,7 +20,7 @@
 ```
 
 
-# ♡ -- GitHub Stats -- ♡
+## ♡ -- GitHub Stats -- ♡
 <div align=center>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=er-hiba&theme=react&hide_border=true&card_width=400)](https://git.io/streak-stats) 
@@ -31,14 +31,14 @@
 <!-- [![committers.top badge](https://user-badge.committers.top/morocco/er-hiba.svg)](https://user-badge.committers.top/morocco/er-hiba) -->
 
 
-# ♡ -- Contributions -- ♡
+## ♡ -- Contributions -- ♡
 
 <div align="center">
   
 ![snake svg](https://github.com/er-hiba/er-hiba/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-# ♡ -- Contact Info -- ♡
+## ♡ -- Contact Info -- ♡
  
 📧 [Email me](mailto:hibah.erraoui@gmail.com)
 
