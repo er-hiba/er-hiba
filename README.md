@@ -20,7 +20,7 @@
 ```
 
 
-### ♡ -- GitHub Stats -- ♡
+### ♡ -- My GitHub Stats -- ♡
 <div align=center>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=er-hiba&theme=react&hide_border=true&card_width=400)](https://git.io/streak-stats) 
@@ -31,7 +31,7 @@
 <!-- [![committers.top badge](https://user-badge.committers.top/morocco/er-hiba.svg)](https://user-badge.committers.top/morocco/er-hiba) -->
 
 
-### ♡ -- Contributions -- ♡
+### ♡ -- My Contributions -- ♡
 
 <div align="center">
   
