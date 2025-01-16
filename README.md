@@ -6,15 +6,15 @@
 ```json
 {
   "name": "Hiba ERRAOUI",
-  "major": "Fullstack Developement",
+  "major": "Full-Stack Web Developement",
   "skills": {
     "learned": {
       "programming_languages": ["Python", "JavaScript", "PHP"],
       "web_development": ["HTML", "CSS", "Bootstrap"],
-      "databases": ["MySQL"],
+      "databases": ["MySQL", "MongoDB"],
       "version_control": ["Git"]
     },
-    "currently_learning": ["React", "Laravel", "MongoDB"]
+    "currently_learning": ["React", "Laravel"]
   }
 }
 ```
