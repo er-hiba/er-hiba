@@ -2,7 +2,7 @@
   <img src="imgs/img1.jfif" width=1020 height=195>
 </div> -->
 
-
+<!--
 ```json
 {
   "name": "Hiba ERRAOUI",
@@ -30,7 +30,7 @@
 
 <!-- [![committers.top badge](https://user-badge.committers.top/morocco/er-hiba.svg)](https://user-badge.committers.top/morocco/er-hiba) -->
 
-
+<!--
 ### ♡ -- My Contributions -- ♡
 
 <div align="center">
@@ -41,4 +41,4 @@
 ### ♡ -- Contact Info -- ♡
  
 📧 [Email me](mailto:hibah.erraoui@gmail.com)
-
+-->
